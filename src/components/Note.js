@@ -19,4 +19,3 @@ function Note(props) {
 
 export default Note;
 
-aditya
