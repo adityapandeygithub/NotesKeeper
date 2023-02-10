@@ -1,0 +1,38 @@
+.create-note{
+    position: relative;
+    width: 70%;
+    margin: 30px auto 30px auto;
+    background: #F2CD5C;
+    padding: 20px;
+    border-radius: 20px;
+    border-style: ridge;
+    box-shadow: 0 1px 5px rgb(10, 1, 1);
+}
+
+.textarea{
+    width: 100%;
+    padding: 2px;
+    outline: inherit;
+    font-size: 25px;
+    border-radius: 10px;
+    font-family: cursive;
+    resize: none;
+    font-style: italic;
+    background: #FFDCA9;
+}
+
+.title{
+    width: 100%;
+    background: #FFDDD2;
+    padding: 2px;
+    border-radius: 10px;
+    height: 50%;
+    font-size: 35px;
+    font-family: cursive;
+    font-style: italic;
+    
+}
+
+
+
+    
